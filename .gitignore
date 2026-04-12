@@ -10,6 +10,7 @@ Icon
 # Thumbnails
 ._*
 
+
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
 .fseventsd
@@ -55,12 +56,6 @@ $RECYCLE.BIN/
 
 hermes_data/*
 workspace/*
-
-SOLUTION_SUMMARY.md
-BROWSER_USE_QUICKSTART.md
-BROWSER_USE_SETUP.md
-START_HERE.md
-GUI_BROWSER_SETUP.md
 
 */config.yaml
 
