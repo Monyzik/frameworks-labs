@@ -60,5 +60,8 @@ workspace/*
 */config.yaml
 
 lab3/frames/*
-
+lab3/best_model.pth
+lab3/output_result.mp4
+lab3/predictions.mp4
+lab3/annotations/*
 *.idea
