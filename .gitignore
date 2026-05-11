@@ -59,4 +59,6 @@ workspace/*
 
 */config.yaml
 
+lab3/frames/*
+
 *.idea
